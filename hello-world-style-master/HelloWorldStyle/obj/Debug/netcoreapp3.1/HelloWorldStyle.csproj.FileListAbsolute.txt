@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\bin\Debug\netcoreapp3.1\HelloWorldStyle.deps.json
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\bin\Debug\netcoreapp3.1\HelloWorldStyle.dll
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\bin\Debug\netcoreapp3.1\HelloWorldStyle.pdb
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.AssemblyInfo.cs
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.dll
+C:\Users\User\Source\Repos\HelloWorldStyle\hello-world-style-master\HelloWorldStyle\obj\Debug\netcoreapp3.1\HelloWorldStyle.pdb

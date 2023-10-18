@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj": {}
   },
   "projects": {
-    "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj",
         "projectName": "HelloWorldStyle.Tests",
-        "projectPath": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle.Tests\\HelloWorldStyle.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle.Tests\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\C#\\VS2\\NuGetPackages"
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj": {
-                "projectPath": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj",
         "projectName": "HelloWorldStyle",
-        "projectPath": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\C#\\VS2\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxYKYCqUQBuY8tW+odkbFK/6fF/alMoRmXLsMKkIOVeSqO6y9ABiXq04VK7+SKrvGYmUUplVAKsWRtNfqTxuLw==",
+  "dgSpecHash": "TDeibQ7g5XHQayww2hQKbWYTgy54gpVR4LZ9nG+e5FNXY9h84qaubP46g1PXhqGqh7BjqZcLPTSbz3VM3bKiuw==",
   "success": true,
-  "projectFilePath": "D:\\EPAM\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\HelloWorldStyle\\hello-world-style-master\\HelloWorldStyle\\HelloWorldStyle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
